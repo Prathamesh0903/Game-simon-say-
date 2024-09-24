@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+}
+
+.btn{
+    height: 100px;
+    width: 100px;
+    margin: 8px;
+    border-radius: 20px;
+    border:5px solid black;
+}
+.box1{
+    display: flex;
+    padding-left:42%;
+
+}
+.box2{
+    display: flex;
+    padding-left: 42%;
+}
+
+.yellow{
+    background:darkkhaki;
+}
+.purple{
+background: purple;
+}
+.blue{
+    background:blue;
+}
+.pink{
+    background: pink;
+}
+
+.flash{
+    background: white;
+}
+
+.userflash{
+    background: green;
+}
